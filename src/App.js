@@ -7,11 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          welcome to rabbit 
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://taupe-dolphin-5d5dc8.netlify.app"
           target="_blank"
           rel="noopener noreferrer"
         >
